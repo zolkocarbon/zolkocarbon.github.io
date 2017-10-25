@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Scraper Project"
-date:       2017-10-25 17:58:08 +0000
+date:       2017-10-25 13:58:08 -0400
 permalink:  my_cli_scraper_project
 ---
 
